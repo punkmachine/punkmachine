@@ -10,17 +10,17 @@
   
 ## ✔️ Навыки
 
-**Вёрстка:** HTML, CSS, Bootstrap, SCSS.
+**Вёрстка:** HTML, CSS, Bootstrap, SCSS, Gulp, БЭМ.
 
 **Frontend разработка:** JavaScript, React.
 
 **CMS:** WordPress, OpenCart.
 
-**Прочее:** SEO-оптимизация, Git, БЭМ.
+**Прочее:** SEO-оптимизация, Git, Webpack.
 
   
 ## 🔗 Связь со мной
 
-[<img align="left" alt="my_site" src="https://img.shields.io/badge/my_site-000?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://webdev.kz/)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/алекс-рассудихин-3a425a21b)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MashinPunk)
+[<img align="left" alt="my_site" title="Мой сайт" src="https://img.shields.io/badge/my_site-000?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://webdev.kz/)
+[<img align="left" alt="linked-in" title="Мой LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/алекс-рассудихин-3a425a21b)
+[<img align="left" alt="twitter" title="Мой Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MashinPunk)
