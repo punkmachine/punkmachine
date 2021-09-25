@@ -12,11 +12,11 @@
 
 **Вёрстка:** HTML, CSS, Bootstrap, SCSS, Gulp, БЭМ.
 
-**Frontend разработка:** JavaScript, React.
+**Frontend разработка:** JavaScript, React, React Router, Webpack.
 
 **CMS:** WordPress, OpenCart.
 
-**Прочее:** SEO-оптимизация, Git, Webpack.
+**Прочее:** SEO-оптимизация, Git.
 
   
 ## 🔗 Связь со мной
