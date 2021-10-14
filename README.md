@@ -12,7 +12,7 @@
 
 **Вёрстка:** HTML, CSS, Bootstrap, SCSS, Gulp, БЭМ.
 
-**Frontend разработка:** JavaScript, React, React Router, Webpack.
+**Frontend разработка:** JavaScript, React, React Router, Redux, Webpack.
 
 **CMS:** WordPress, OpenCart.
 
