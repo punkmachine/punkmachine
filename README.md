@@ -6,6 +6,7 @@
 ## 📌 Проекты
 
 - [todosh](https://github.com/punkmachine/todosh) - ToDo list на JavaScript. 
+- [news-post](https://github.com/punkmachine/news-post) - Новостной пост, созданный для изучения работы Redux.
 
   
 ## ✔️ Навыки
