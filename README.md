@@ -7,6 +7,7 @@
 
 - [news-post](https://github.com/punkmachine/news-post) - Новостной пост, созданный для изучения работы Redux.
 - [template-portfolio](https://github.com/punkmachine/template_portfolio) - Завёрстанный шаблон портфолио-разработчика на HTML\CSS. 
+- [food](https://github.com/punkmachine/food) - вёрстка HTML\CSS\JS. Верстал для изучения работы JS с элементами DOM.
   
 ## ✔️ Навыки
 
