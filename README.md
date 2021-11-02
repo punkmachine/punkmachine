@@ -9,7 +9,7 @@
 - [todosh](https://github.com/punkmachine/todoosh) - SPA-приложение to do листа на React+Redux.
 - [template-portfolio](https://github.com/punkmachine/template_portfolio) - Завёрстанный шаблон портфолио-разработчика на HTML\CSS. 
 - [food](https://github.com/punkmachine/food) - вёрстка HTML\CSS\JS. Верстал для изучения работы JS с элементами DOM.
-- [real-time-chat](https://github.com/punkmachine/real-time-chat) - чат на WebSocket, на React и Node.js.  
+- [real-time-chat](https://github.com/punkmachine/real-time-chat) - чат с WebSocket, на React и Node.js.  
   
 ## ✔️ Навыки
 
