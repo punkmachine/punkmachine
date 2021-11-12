@@ -17,8 +17,6 @@
 
 **Frontend разработка:** JavaScript, React, React Router, Redux, Webpack.
 
-**CMS:** WordPress, OpenCart.
-
 **Прочее:** SEO-оптимизация, Git.
 
   
