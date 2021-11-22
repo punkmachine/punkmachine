@@ -13,11 +13,11 @@
   
 ## ✔️ Навыки
 
-**Вёрстка:** HTML, CSS, Bootstrap, SCSS, Gulp, БЭМ.
+**Вёрстка:** HTML, CSS, Bootstrap, SCSS, БЭМ.
 
-**Frontend разработка:** JavaScript, React, React Router, Redux, Webpack.
+**Frontend разработка:** JavaScript, React, React Router, Redux, Redux Toolkit, Ant Design.
 
-**Прочее:** SEO-оптимизация, Git.
+**Инструменты:** Git, Swagger, Gulp, VS Code, Webpack.
 
   
 ## 🔗 Связь со мной
