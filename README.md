@@ -41,6 +41,6 @@
 [<img align="left" alt="linked-in" title="Мой LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/алекс-рассудихин-3a425a21b)
 [<img align="left" alt="twitter" title="Мой Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/punkmachine09)
 
-[markup]: #Вёрстка
-[develop]: #Frontentd-разработка
-[tools]: #Инструменты
+[markup]: #вёрстка
+[develop]: #frontentd-разработка
+[tools]: #инструменты
