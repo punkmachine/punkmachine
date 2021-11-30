@@ -11,7 +11,7 @@
 - [food](https://github.com/punkmachine/food) - вёрстка HTML\CSS\JS. Верстал для изучения работы JS с элементами DOM.
 - [real-time-chat](https://github.com/punkmachine/real-time-chat) - чат с WebSocket, на React и Node.js.  
   
-## ✔️ Навыки
+## ✔️ Что я использую в работе?
 
 ### Верстка
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=f16524" alt="HTML5 logo" title="HTML5" height="25" />][markup]
