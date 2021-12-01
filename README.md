@@ -4,18 +4,21 @@
 
 ## 📌 Мои проекты
 
-- [news-post](https://github.com/punkmachine/news-post) - Новостной пост, созданный для изучения работы Redux.
-- [todosh](https://github.com/punkmachine/todoosh) - SPA-приложение to do листа на React+Redux.
-- [template-portfolio](https://github.com/punkmachine/template_portfolio) - Завёрстанный шаблон портфолио-разработчика на HTML\CSS. 
-- [food](https://github.com/punkmachine/food) - вёрстка HTML\CSS\JS. Верстал для изучения работы JS с элементами DOM.
-- [real-time-chat](https://github.com/punkmachine/real-time-chat) - чат с WebSocket, на React и Node.js.  
+| Проект | Технологии |
+|---|---|
+| [todosh](https://github.com/punkmachine/todoosh) | <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="React logo" title="React" height="25" /> <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /> <img src="https://img.shields.io/badge/React%20Router%20DOM-282C34?logo=React%20Router&logoColor=CA4245" alt="React Router DOM logo" title="React Router DOM" height="25" /> <img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" /> |
+| [news-post](https://github.com/punkmachine/news-post) | <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="React logo" title="React" height="25" /> <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /> <img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" /> | 
+| [real-time-chat](https://github.com/punkmachine/real-time-chat) | <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="React logo" title="React" height="25" /> |
+| [food](https://github.com/punkmachine/food) | <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=f16524" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" /> <img src="https://img.shields.io/badge/%D0%91%D0%AD%D0%9C-282C34?logo=BEM&logoColor=2e96cd" alt="BEM logo" title="BEM" height="25" /> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> | 
+| [template-portfolio](https://github.com/punkmachine/template_portfolio) | <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=f16524" alt="HTML5 logo" title="HTML5" height="25" /> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /> <img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" /> <img src="https://img.shields.io/badge/%D0%91%D0%AD%D0%9C-282C34?logo=BEM&logoColor=2e96cd" alt="BEM logo" title="BEM" height="25" /> |
+
   
 ## ✔️ Что я использую в работе?
 
 ### Верстка
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=f16524" alt="HTML5 logo" title="HTML5" height="25" />][markup]
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][markup]
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" />][markup]
+[<img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" />][markup]
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7911ee" alt="Bootstrap logo" title="Bootstrap" height="25" />][markup]
 [<img src="https://img.shields.io/badge/%D0%91%D0%AD%D0%9C-282C34?logo=BEM&logoColor=2e96cd" alt="BEM logo" title="BEM" height="25" />][markup]
 
