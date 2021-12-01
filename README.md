@@ -2,7 +2,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, я Алекс
 Я Junior Frontend Developer из Алматы. Имею полтора года опыта работы в сфере веб-разработки. Люблю браться за новые интересные задачи и решать их. 
 
-  
 ## 📌 Мои проекты
 
 - [news-post](https://github.com/punkmachine/news-post) - Новостной пост, созданный для изучения работы Redux.
@@ -37,9 +36,10 @@
   
 ## 🔗 Связь со мной
 
-[<img align="left" alt="my_site" title="Мой сайт" src="https://img.shields.io/badge/my_site-000?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://webdev.kz/)
-[<img align="left" alt="linked-in" title="Мой LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/алекс-рассудихин-3a425a21b)
-[<img align="left" alt="twitter" title="Мой Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/punkmachine09)
+<p align="left">
+  <a href="https://linkedin.com/in/алекс-рассудихин-3a425a21b"><img title="Мой LinkedIn" alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
+  <a href="https://twitter.com/punkmachine09"><img title="Мой Twitter" alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+</p>
 
 [markup]: #вёрстка
 [develop]: #frontentd-разработка
