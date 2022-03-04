@@ -37,13 +37,6 @@
 [<img src="https://img.shields.io/badge/Swagger-282C34?logo=Swagger&logoColor=679200" alt="Swagger logo" title="Swagger" height="25" />][tools]
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tools]
 
-## 🔗 Связь со мной
-
-<p align="left">
-  <a href="https://linkedin.com/in/алекс-рассудихин-3a425a21b"><img title="Мой LinkedIn" alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-  <a href="https://twitter.com/punkmachine09"><img title="Мой Twitter" alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
-</p>
-
 [markup]: #вёрстка
 [develop]: #frontentd-разработка
 [tools]: #инструменты
