@@ -22,6 +22,7 @@
 
 ### Frontend разработка
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][develop]
+[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />][develop]
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61dafb" alt="React logo" title="React" height="25" />][develop]
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][develop]
 [<img src="https://img.shields.io/badge/Redux%20Toolkit-282C34?logo=redux&logoColor=764ABC" alt="Redux Tollkit logo" title="Redux Tollkit" height="25" />][develop]
