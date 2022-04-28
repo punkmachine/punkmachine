@@ -36,6 +36,7 @@
 [<img src="https://img.shields.io/badge/Gulp-282C34?logo=Gulp&logoColor=c64343" alt="Gulp logo" title="Gulp" height="25" />][tools]
 [<img src="https://img.shields.io/badge/Swagger-282C34?logo=Swagger&logoColor=679200" alt="Swagger logo" title="Swagger" height="25" />][tools]
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" />][tools]
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="25" />][tools]
 
 [markup]: #вёрстка
 [develop]: #frontentd-разработка
