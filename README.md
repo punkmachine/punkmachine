@@ -26,8 +26,9 @@
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][develop]
 <br />
 [<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />][develop]
-[<img src="https://img.shields.io/badge/Vue Core-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />][develop]
+[<img src="https://img.shields.io/badge/Vue Core Libraries-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />][develop]
 [<img src="https://img.shields.io/badge/Vuetify-282C34?logo=Vuetify&logoColor=1867C0" alt="Vuetify logo" title="Vuetify" height="25" />][develop]
+[<img src="https://img.shields.io/badge/Vue Petite-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue Petite logo" title="Vue Petite" height="25" />][develop]
 <br />
 [<img src="https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61dafb" alt="React logo" title="React" height="25" />][develop]
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][develop]
