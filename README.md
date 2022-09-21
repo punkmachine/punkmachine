@@ -26,7 +26,7 @@
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />](https://github.com/punkmachine/food)
 <br />
 [<img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />](https://github.com/punkmachine/english-learner)
-[<img src="https://img.shields.io/badge/Vue Core Libraries-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />](https://github.com/punkmachine/english-learner])
+[<img src="https://img.shields.io/badge/Vue Core Libraries-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue logo" title="Vue" height="25" />](https://github.com/punkmachine/english-learner)
 [<img src="https://img.shields.io/badge/Vuetify-282C34?logo=Vuetify&logoColor=1867C0" alt="Vuetify logo" title="Vuetify" height="25" />](https://github.com/punkmachine/english-learner)
 [<img src="https://img.shields.io/badge/Vue Petite-282C34?logo=Vue.js&logoColor=#4FC08D" alt="Vue Petite logo" title="Vue Petite" height="25" />](#frontend-разработка)
 <br />
