@@ -18,7 +18,7 @@
 [<img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699" alt="SCSS logo" title="SCSS" height="25" />](https://github.com/punkmachine/homework-frontend)
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7911ee" alt="Bootstrap logo" title="Bootstrap" height="25" />](#верстка)
 [<img src="https://img.shields.io/badge/%D0%91%D0%AD%D0%9C-282C34?logo=BEM&logoColor=2e96cd" alt="BEM logo" title="BEM" height="25" />](#верстка)
-[<img src="https://img.shields.io/badge/Gulp-282C34?logo=Gulp&logoColor=CF4647" alt="Gulp logo" title="Gulp" height="25" />](#верстка)
+[<img src="https://img.shields.io/badge/Tailwind-282C34?logo=Tailwind CSS&logoColor=06B6D4" alt="Tailwind logo" title="Tailwind" height="25" />](#верстка)
 
 ### Frontend разработка
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />](https://github.com/punkmachine/food)
@@ -38,3 +38,4 @@
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />](#инструменты)
 [<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=1b72b6" alt="Webpack logo" title="Webpack Code" height="25" />](#инструменты)
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=Firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="25" />](#инструменты)
+[<img src="https://img.shields.io/badge/Gulp-282C34?logo=Gulp&logoColor=CF4647" alt="Gulp logo" title="Gulp" height="25" />](#инструменты)
