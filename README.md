@@ -1,7 +1,7 @@
 
 # Привет!
 
-Я Саша, Strong Junior Frontend Developer из Алматы. Работаю в компании ChocoFamily. 
+Я Саша, Strong Junior Frontend Developer из Алматы. Работаю в компании ChocoFamily. Люблю интересные задачи, печеньки и JavaScript.
 
 ## Навыки:
 - **Языки:** `JavaScript`.
