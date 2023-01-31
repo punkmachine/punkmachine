@@ -12,4 +12,4 @@
 - **Vue-экосистема:** `Vuex`, `Vue Petite`. 
 
 ## 💡 Интересное:
-- Стараюсь в Доке: https://doka.guide/people/punkmachine/
+- Пишу статьи в [Доке](https://doka.guide/people/punkmachine/).
