@@ -10,3 +10,6 @@
 - **Инструменты:** `Git`, `Gulp`, `Webpack`. 
 - **React-экосистема:** `Redux`, `Redux Toolkit`.
 - **Vue-экосистема:** `Vuex`, `Vue Petite`. 
+
+## 💡 Интересное:
+- Стараюсь в Доке: https://doka.guide/people/punkmachine/
