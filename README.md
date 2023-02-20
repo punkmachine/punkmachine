@@ -6,10 +6,10 @@
 ## ✔️ Навыки:
 - **Языки:** `JavaScript`.
 - **Фреймворки:** `React.js`, `Vue.js`.
-- **UI библиотеки:** `Bootstrap`, `Tailwind`, `Ant Design`, `Vuetify`.
+- **UI библиотеки:** `Bootstrap`, `Tailwind`.
 - **Инструменты:** `Git`, `Gulp`, `Webpack`. 
-- **React-экосистема:** `Redux`, `Redux Toolkit`.
-- **Vue-экосистема:** `Vuex`, `Vue Petite`. 
+- **React-экосистема:** `Redux`, `Redux Toolkit`, `Ant Design`.
+- **Vue-экосистема:** `Vuex`, `Vue Petite`, `Vuetify`. 
 - **Тесты:** `Jest`, `Testing Library`.
 
 ## 💡 Интересное:
