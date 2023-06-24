@@ -7,10 +7,10 @@
 - **Языки:** `JavaScript`.
 - **Фреймворки:** `React.js`, `Vue.js`.
 - **UI библиотеки:** `Bootstrap`, `Tailwind`.
-- **Инструменты:** `Git`, `Gulp`, `Webpack`. 
+- **Инструменты:** `Git`, `Vite`. 
 - **React-экосистема:** `Redux`, `Redux Toolkit`, `Ant Design`.
 - **Vue-экосистема:** `Vuex`, `Vue Petite`, `Vuetify`. 
-- **Тесты:** `Jest`, `Testing Library`.
+- **Тесты:** `Jest`, `Testing Library`, `Vitest`.
 
 ## 💡 Интересное:
 - Пишу статьи в [Доке](https://doka.guide/people/punkmachine/).
