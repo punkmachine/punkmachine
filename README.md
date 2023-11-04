@@ -4,13 +4,13 @@
 Я Алекс, Middle Frontend Developer из Алматы. Работаю в компании ChocoFamily. Люблю интересные задачи, печеньки и JavaScript.
 
 ## ✔️ Навыки:
-- **Языки:** `JavaScript`.
+- **Языки:** `JavaScript`, `TypeScript`.
 - **Фреймворки:** `React.js`, `Vue.js`.
 - **UI библиотеки:** `Bootstrap`, `Tailwind`.
 - **Инструменты:** `Git`, `Vite`. 
 - **React-экосистема:** `Redux`, `Redux Toolkit`, `Ant Design`.
 - **Vue-экосистема:** `Vuex`, `Vue Petite`, `Vuetify`. 
-- **Тесты:** `Jest`, `Testing Library`, `Vitest`.
+- **Тесты:** `Jest`, `Testing Library`, `Vitest`. 
 
 ## 💡 Интересное:
 - Пишу статьи в [Доке](https://doka.guide/people/punkmachine/).
