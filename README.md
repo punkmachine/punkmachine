@@ -8,4 +8,4 @@
 ## 💡 Интересное:
 - Веду свой собственный [блог](https://webdev.kz/blog).
 - Пишу статьи в [Доке](https://doka.guide/people/punkmachine/).
-- Люблю подкасты и веду актуальный [awesome-podcast-list](https://github.com/punkmachine/podcast-list).
+- Люблю подкасты и веду ~~почти~~ актуальный [awesome-podcast-list](https://github.com/punkmachine/podcast-list).
