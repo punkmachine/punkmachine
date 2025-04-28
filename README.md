@@ -9,4 +9,3 @@
 - Веду свой собственный [блог](https://webdev.kz/blog).
 - Выступаю на различных [конференциях](https://webdev.kz/lectures/).
 - Пишу статьи в [Доке](https://doka.guide/people/punkmachine/).
-- Люблю подкасты и веду ~~почти~~ актуальный [awesome-podcast-list](https://github.com/punkmachine/podcast-list).
