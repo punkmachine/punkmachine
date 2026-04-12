@@ -1,6 +1,7 @@
 # Алекс Рассудихин — Fullstack Developer
 
 > React · Vue · Node.js · NestJS · TypeScript
+> 
 > SPA · SSR · Telegram Bots · WebView App
 
 ---
@@ -16,7 +17,7 @@
 
 ## О себе
 
-🔧 Сейчас работаю в **iDoctor** — на позиции fullstack разработчика: развиваю SPA/SSR-приложения, создаю REST API, делаю UI-kit;
+🔧 Сейчас работаю в **iDoctor** — на позиции fullstack разработчика: создаю SPA/SSR-приложения и REST API сервисы;
 
 🏗️ Проводил крупные миграции: PHP→Next.js, Vue 2→Vue 3, Webpack→Vite;
 
